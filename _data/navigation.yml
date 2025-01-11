@@ -17,9 +17,6 @@ main:
         
   - title: "Community"
     url: /community/
-
-   - title: "Expeditions"
-    url: /expeditions/
     
   - title: "CV"
     url: /cv/
