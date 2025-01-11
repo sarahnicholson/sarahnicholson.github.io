@@ -8,25 +8,25 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sarah Nicholson"
+title                    : "Ocean Scientist"
 title_separator          : "-"
 name                     : &name "Sarah Nicholson"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "sarahnicholson/sarahnicholson.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.png"
+  avatar           : "/images/profile2.png"
   name             : "Sarah Nicholson"
   pronouns         : # example: "she/her"  
   bio              : "A principal researcher passionate about ocean science, autonomous vehicles, satellite observations and ocean models. Strongly motivated to work on complex ocean - climate problems through innovation. "
   location         : "Earth"
-  employer         : "SOCCO-CSIR"
+  employer         : "CSIR"
   uri              : # URL
   email            : "snicholson@csir.co.za" 
 
@@ -47,7 +47,6 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # Username Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
