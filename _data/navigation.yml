@@ -9,8 +9,8 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Students"
-    url: /students/    
+  - title: "People"
+    url: /people/    
     
   - title: "Projects"
     url: /projects/
@@ -18,6 +18,6 @@ main:
   - title: "Community"
     url: /community/
     
-  - title: "Expeditions"
-    url: /Expeditions/
+  - title: "CV"
+    url: /cv/
     
