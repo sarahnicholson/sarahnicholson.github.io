@@ -11,16 +11,6 @@ redirect_from:
 # Dr Sarah Nicholson 
 **Email:** [sarahanne.n@gmail.com](mailto:sarahanne.n@gmail.com)
 
-## Online Presence
-
-- [LinkedIn](https://www.linkedin.com/in/sarah-nicholson-a03b9399/)
-- [ResearchGate](https://www.researchgate.net/profile/Sarah-Nicholson-9)
-- [Twitter](https://twitter.com/Phytoplankton)
-- [ORCID](https://orcid.org/0000-0002-1226-1828)
-- [Google Scholar](https://scholar.google.co.za/citations?user=Yrgy1IQAAAAJ)
-- [YouTube](https://youtube.com/playlist?list=PLvX2SkNi5BFJd07b8N3MnXJNKkGmWwxuM)
-- [SOCCO Zenodo](https://zenodo.org/communities/socco/)
-
 ---
 
 ## Employment History
