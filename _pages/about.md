@@ -1,17 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
----
-layout: page
-title: "About Me"
-permalink: /about/
----
 
 # About Me
 
@@ -30,6 +25,8 @@ Understanding the mechanisms behind this uptake, and how they may change under d
 ---
 
 ## My Approach
+
+<img src="/assets/img/glider-deployment.jpg" alt="Deploying a glider in the Southern Ocean" style="max-width:100%; margin: 1em 0;">
 
 At the **Southern Ocean Carbon-Climate Observatory (SOCCO)**, I lead research on ocean-atmosphere interactions, and I’m involved in the development and use of **ocean robotic platforms**. These include gliders equipped with turbulence sensors that can operate in remote and challenging environments like the Southern Ocean.
 
