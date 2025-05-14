@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 # Dr Sarah Nicholson 
 **Email:** [sarahanne.n@gmail.com](mailto:sarahanne.n@gmail.com)
@@ -79,15 +78,17 @@ Dean’s list
 **PhD Students**
 - Isabelle Giddy (2018–2022, UCT & Gothenburg)
 - Zakiena Hoossen (2019–present, WITS)
-- Tasha Smith (2019–present, WITS)
-- Tesha Toolsee (2022–present, UCT)
+- Tasha Smith (2019–2025, WITS)
+- Tesha Toolsee (2022–2025, UCT)
+- Vusani Mikosi (2025-present, UCT)
 
 **MSc Students**
 - Kevin Schmidt (2017) [doi](https://doi.org/10.1175/JTECH-D-17-0079.1)  
 - Ayanda Mpalweni (2019, UCT) [link](https://open.uct.ac.za/handle/11427/31796)  
 - Tumelo Comfort Moalusi (2019, UCT) [link](https://open.uct.ac.za/handle/11427/31821)  
 - Johan Edholm (2020, Gothenburg)  
-- Bongiwe Jojo (2024, UCT)  
+- Bongiwe Jojo (2024, UCT)
+- Gonzalo Ruiz (2025, Gothenburg)  
 - Nikita Qosholo (2024–present, UCT)
 
 ---
@@ -166,7 +167,7 @@ Dean’s list
 
 ## Collaborations
 
-- Strong collaborations with LOCEAN-IPSL (France), NASA AMES (USA), Gothenburg University (Sweden), University of Bergen (Norway)
+- Strong collaborations with Gothenburg University (Sweden), NASA AMES (USA), University of Bergen (Norway),LOCEAN-IPSL (France)
 
 ---
 
