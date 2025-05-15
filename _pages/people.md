@@ -1,15 +1,8 @@
 ---
-layout: archive
-title: "people"
+layout: single
+title: "People"
 permalink: /people/
-author_profile: true
-redirect_from:
-  - /people
-nav:
-  - title: "People"
-    url: /people/
 ---
-
 
 {% include base_path %}
 
