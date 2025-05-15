@@ -14,19 +14,19 @@ Most of my research is based in the **Southern Ocean**, a region critical to the
 ---
 
 ## Why This Matters
-<img src="images/co2_test_annot.gif" alt="CSIR-ML6 CO2 fluxes" style="max-width:100%; margin: 1em 0;">
 Over the past decade, the ocean has absorbed around a quarter of the CO₂ released by human activity and most of the excess heat. This buffering role is vital, but it comes with consequences — the ocean is warming, acidifying, and losing oxygen.
 
 Understanding the mechanisms behind this uptake, and how they may change under different emission scenarios, is key to improving climate projections and informing policy — especially in regions like **Southern Africa**, where the impacts of climate change are already being felt through coastal flooding, ecosystem change, and resource pressures.
+<img src="images/co2_test_annot.gif" alt="CSIR-ML6 CO2 fluxes" style="max-width:100%; margin: 1em 0;">
 
 ---
 
 ## My Approach
-<img src="images/waveglider.png" alt="Deploying a glider in the Southern Ocean" style="max-width:100%; margin: 1em 0;">
 
 At the **Southern Ocean Carbon-Climate Observatory (SOCCO)**, I lead research on ocean-atmosphere interactions, and I’m involved in the development and use of **ocean robotic platforms**. These include gliders equipped with turbulence sensors that can operate in remote and challenging environments like the Southern Ocean.
 
 I also manage **SA-RobOTIC** (South African Robotics and Ocean Technology Innovation Centre), a collaboration between SMME Sea Technologies and SOCCO. SA-RobOTICs supports SOCCOs ocean robotic activities and innovation in ocean observing technologies. Our team has been involved in efforts like building custom sensors and expanding glider mission capabilities to improve year-round data collection.
+<img src="images/waveglider.png" alt="Deploying a glider in the Southern Ocean" style="max-width:100%; margin: 1em 0;">
 
 ---
 
