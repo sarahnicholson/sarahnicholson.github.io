@@ -1,9 +1,10 @@
 ---
 layout: archive
-title: "People"
+title: "people"
 permalink: /people/
 author_profile: true
 ---
+
 # People
 
 ### People who I currently work with and alumni
