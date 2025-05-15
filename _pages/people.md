@@ -4,9 +4,6 @@ title: "People"
 permalink: /people/
 ---
 
-{% include base_path %}
-
-
 # People
 
 ### People who I currently work with and alumni
