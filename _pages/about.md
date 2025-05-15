@@ -22,7 +22,7 @@ Understanding the mechanisms behind this uptake, and how they may change under d
 ---
 
 ## My Approach
-<img src="images/waveglider.pdf" alt="Deploying a glider in the Southern Ocean" style="max-width:100%; margin: 1em 0;">
+<img src="images/waveglider.png" alt="Deploying a glider in the Southern Ocean" style="max-width:100%; margin: 1em 0;">
 
 At the **Southern Ocean Carbon-Climate Observatory (SOCCO)**, I lead research on ocean-atmosphere interactions, and I’m involved in the development and use of **ocean robotic platforms**. These include gliders equipped with turbulence sensors that can operate in remote and challenging environments like the Southern Ocean.
 
@@ -38,7 +38,7 @@ A large part of my work involves collaborating with other scientists, engineers,
 
 ## Current Focus
 
-I’m currently involved in a number of projects, including ongoing glider work along the **West African margin**, supported by a grant from **Schmidt Sciences**. These efforts aim to improve observations and understanding in regions that are often under-sampled but highly relevant to climate and marine resource management.
+I’m currently involved in a number of [projects](/projects/), including ongoing glider work along the **West African margin**, supported by the **Schmidt Sciences**. These efforts aim to improve observations and understanding in regions that are often under-sampled but highly relevant to climate and marine resource management.
 
 ---
 
