@@ -26,7 +26,7 @@ Understanding the mechanisms behind this uptake, and how they may change under d
 
 At the **Southern Ocean Carbon-Climate Observatory (SOCCO)**, I lead research on ocean-atmosphere interactions, and I’m involved in the development and use of **ocean robotic platforms**. These include gliders equipped with turbulence sensors that can operate in remote and challenging environments like the Southern Ocean.
 
-I also help coordinate **SA-RobOTIC**, a national initiative supporting innovation in ocean observing technologies. Our team has been involved in efforts like building custom sensors and expanding glider mission capabilities to improve year-round data collection.
+I also manage **SA-RobOTIC** (South African Robotics and Ocean Technology Innovation Centre), a collaboration between SME Sea Technologies and SOCCO. SA-RobOTICs supports SOCCOs ocean robotic activities and innovation in ocean observing technologies. Our team has been involved in efforts like building custom sensors and expanding glider mission capabilities to improve year-round data collection.
 
 ---
 
