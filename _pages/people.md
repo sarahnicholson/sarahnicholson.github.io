@@ -4,6 +4,8 @@ title: "people"
 permalink: /people/
 author_profile: true
 ---
+{% include base_path %}
+
 
 # People
 
