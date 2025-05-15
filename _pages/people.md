@@ -1,4 +1,9 @@
-
+---
+layout: archive
+title: "People"
+permalink: /people/
+author_profile: true
+---
 # People
 
 ## People who I currently work with and alumni
