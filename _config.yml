@@ -23,7 +23,7 @@ header_image: "header.png"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.png"
+  avatar           : "profile.jpg"
   name             : "Sarah Nicholson"
   pronouns         : # example: "she/her"  
   bio              : "A principal researcher passionate about ocean science, autonomous vehicles, satellite observations and ocean models. Strongly motivated to work on complex ocean - climate problems through innovation. "
