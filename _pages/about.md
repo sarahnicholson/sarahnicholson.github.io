@@ -7,8 +7,6 @@ redirect_from:
 ---
 
 
-# About Me
-
 I’m **Dr. Sarah Nicholson**, a researcher in ocean and climate science based in South Africa. My work focuses on understanding how the ocean interacts with the atmosphere — particularly how it absorbs carbon dioxide and heat — and how those interactions shape our climate now and into the future.
 
 Most of my research is based in the **Southern Ocean**, a region critical to the global carbon and climate system. I use a combination of **autonomous ocean vehicles**, like gliders, and **numerical models** to explore how small- to large-scale ocean processes — including storms and turbulence — influence the exchange of carbon and heat between the ocean and atmosphere.
