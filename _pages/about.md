@@ -1,7 +1,9 @@
 ---
-layout: single
-title: "People"
-permalink: /people/
+permalink: /
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.md
 ---
 
 
