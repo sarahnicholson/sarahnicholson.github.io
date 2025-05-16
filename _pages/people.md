@@ -4,8 +4,6 @@ title: "People"
 permalink: /people/
 ---
 
-# People
-
 ### People who I currently work with and alumni
 
 ## PhD Students (current and former)
