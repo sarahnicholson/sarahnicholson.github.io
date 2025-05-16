@@ -4,7 +4,7 @@ title: "People"
 permalink: /people/
 ---
 
-# 👥 People I currently work with and alumni
+## 👥 People I currently work with and alumni
 
 ---
 
