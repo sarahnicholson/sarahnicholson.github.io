@@ -30,7 +30,7 @@ Tesha is a PhD candidate from Mauritius working with Dr. Nicholson and Dr. Monte
 </p>
 
 📚 **Publication:**
-- Storm‐Driven pCO₂ Feedbacks in the Southern Ocean... [GRL](http://dx.doi.org/10.1029/2023GL107804)
+- 🌊Storm‐Driven pCO₂ Feedbacks in the Southern Ocean... [GRL](http://dx.doi.org/10.1029/2023GL107804)
 
 ---
 
@@ -40,7 +40,7 @@ Tasha's research focuses on the role of mesoscale eddies in shaping heat and CO�
 </p>
 
 📚 **Publication:**
-- The Heat and Carbon Characteristics of mesoscale eddies... [JGR: Oceans](http://dx.doi.org/10.1029/2023JC020337)
+- 🌀The Heat and Carbon Characteristics of mesoscale eddies... [JGR: Oceans](http://dx.doi.org/10.1029/2023JC020337)
 
 ---
 
@@ -66,7 +66,7 @@ Evaluated reanalysis momentum surface fluxes with auntonmous in situ obserations
 </p>
 
 📚 **Publication:**
-- Evaluation of Wind Products using Wave Gliders... [JTECH](http://dx.doi.org/10.1175/jtech-d-17-0079.1)
+- 🌊Evaluation of Wind Products using Wave Gliders... [JTECH](http://dx.doi.org/10.1175/jtech-d-17-0079.1)
 
 ---
 
