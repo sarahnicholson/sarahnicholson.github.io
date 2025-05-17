@@ -38,7 +38,9 @@ This proposal uses high-resolution observations, data-based reconstructions and 
 
 Overall, this project aims to bring the study of heat and carbon together to improve our understanding and projection of carbon-climate feedbacks.
 
-![Nexus screenshot](images/Screenshot 2025-05-17 at 13.02.42.png)
+<img src="images/Screenshot 2025-05-17 at 13.02.42.png" alt="CSIR-ML6 CO2 fluxes" style="max-width:100%; margin: 1em 0;">
+
+**Funding**: National Research Foundation – South African National Antarctic Programme, 2024–2027
 
 ---
 
