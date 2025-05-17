@@ -22,16 +22,6 @@ Giddy completed her PhD in 2022 through a joint program between the University o
 
 ---
 
-### Tesha Toolsee (2022–2025, UCT)
-<p style="font-size: 0.9em; color: #555;">
-Tesha is a PhD candidate from Mauritius working with Dr. Nicholson and Dr. Monteiro. She investigates synoptic-scale ocean-atmosphere coupling of carbon flux in the Southern Ocean using glider and model data.
-</p>
-
-📚 **Publication:**
-- 🌊Storm‐Driven pCO₂ Feedbacks in the Southern Ocean... [GRL](http://dx.doi.org/10.1029/2023GL107804)
-
----
-
 ### Tasha Smith (2019–2025, University of the Witwatersrand)
 <p style="font-size: 0.9em; color: #555;">
 Tasha's research focuses on the role of mesoscale eddies in shaping heat and CO₂ dynamics in the South Atlantic, using eddy-resolving ocean models.
@@ -46,6 +36,16 @@ Tasha's research focuses on the role of mesoscale eddies in shaping heat and CO�
 <p style="font-size: 0.9em; color: #555;">
 Zakiena applies machine learning and modeling to study sub-grid scale interactions between the atmosphere and the upper ocean, with focus on the Southern Ocean.
 </p>
+
+---
+
+### Tesha Toolsee (2022–2025, UCT)
+<p style="font-size: 0.9em; color: #555;">
+Tesha is a PhD candidate from Mauritius working with Dr. Nicholson and Dr. Monteiro. She investigates synoptic-scale ocean-atmosphere coupling of carbon flux in the Southern Ocean using glider and model data.
+</p>
+
+📚 **Publication:**
+- 🌊Storm‐Driven pCO₂ Feedbacks in the Southern Ocean... [GRL](http://dx.doi.org/10.1029/2023GL107804)
 
 ---
 
