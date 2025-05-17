@@ -10,7 +10,6 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-## Publications
 
 ### In review 
 - **BIOPERIANT12: a mesoscale resolving coupled physics-biogeochemical model for the Southern Ocean**  
