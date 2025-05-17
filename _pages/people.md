@@ -3,10 +3,6 @@ layout: single
 permalink: /people/
 ---
 
-## 👥 People I currently work with and alumni
-
----
-
 ## 🎓 PhD Students (Current and Former)
 
 ### <span style="font-size: 1.1em;">Dr Isabelle Giddy (2018–2022, UCT & University of Gothenburg)</span>
