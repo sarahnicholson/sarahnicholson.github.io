@@ -1,10 +1,8 @@
 ---
 layout: single
 permalink: /people/
+title: "👥 People I currently work with and alumni"
 ---
-
-
-## 👥 People I currently work with and alumni
 
 
 ## 🎓 PhD Students (Current and Former)
