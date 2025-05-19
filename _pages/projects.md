@@ -9,7 +9,8 @@ title: "Projects"
 ---
 
 ### **Oxygen and Biogeochemical Dynamics Along the West African Margin: Processes and Consequences (WAM)**
-
+**PI**: S. Fawcett
+**Co-PIs**: S.-A. Nicholson, L. Resplandy, D. Sigman
 WAM is a [Schmidt Sciences](https://www.schmidtsciences.org/) funded project, which falls under Schmidt Science’s new initiative, the Ocean Biogeochemistry Virtual Institute (OBVI). The West African ocean margin is a highly productive zone, critical for supporting key fisheries and marine diversity. It is also characterised by extensive oxygen-poor regions making it particularly susceptible to future environmental changes such as deoxygenation, which could have major socio-economic consequences for several West African countries.
 
 Yet, the future of ocean oxygenation and productivity is highly uncertain, in part because of the array of processes involved, ranging from global-scale atmospheric circulation to fine-scale (1–10 km) complex coastal currents. WAM aims to determine the inter-related controls on oxygen and productivity along the West African margin, from the tip of South Africa to the equator, and to identify implications for natural resources.
@@ -23,6 +24,8 @@ This margin hosts several socioeconomically important ecosystems characterized b
 ---
 
 ### **Southern Ocean Carbon–Heat Nexus: Mixed-Layer Processes & Feedbacks for Improved Climate Projections**
+**PI**: S.-A. Nicholsom
+**Co-PIs**: P Monteiro, S. Hamnca
 
 The contemporary Southern Ocean regulates global climate by slowing down rates of anthropogenic warming through its globally disproportionate role in the uptake of excess heat and CO₂ emissions (‘negative feedback’). Simultaneously, the Southern Ocean is warming, which hampers its ability to continue to absorb CO₂ (‘positive feedback’). The role of the ocean in the uptake of heat and CO₂ and these related feedbacks is termed the *ocean carbon–heat nexus*.
 
@@ -41,6 +44,25 @@ Overall, this project aims to bring the study of heat and carbon together to imp
 ![Screenshot 2025-05-17 at 13 01 33](https://github.com/user-attachments/assets/92e03b01-71c8-48d7-8c45-c811055d6440)
 
 **Funding**: National Research Foundation – South African National Antarctic Programme, 2024–2027
+
+
+### **South African Integrated Carbon - Climate Observatory**
+**PI**: P. Monteiro
+
+This project is designed to deliver three key dimensions of regional and global impact across both carbon-climate science and climate policy:
+
+**Reducing Uncertainty in the Regional Carbon Budget**
+We aim to significantly reduce current uncertainties—by an order of magnitude—in the annual mean carbon budget of the South African Coastal Ocean System. Combined with terrestrial data, this will enable a more precise estimate of South Africa’s regional carbon sink. These improved constraints can directly inform the Global Carbon Budget, the Intergovernmental Panel on Climate Change (IPCC), and South Africa’s Nationally Determined Contributions (NDCs) under the Paris Agreement.
+
+**Supporting Climate Governance and Marine Carbon Dioxide Removal (mCDR)**
+By reducing uncertainties in the trends and variability of carbon fluxes, this project will provide the scientific foundation and carbon constraints needed to develop regionally appropriate governance frameworks. These frameworks will assess the feasibility and effectiveness of marine Carbon Dioxide Removal (mCDR) strategies.
+
+**Informing Coastal Ecosystem Management and Adaptation Policies**
+We aim to deliver a high-confidence, multi-decadal reconstruction of ocean acidification trends and variability in the South African coastal ocean. This information is critical for managing biodiversity and supporting aquaculture, particularly for vulnerable species like corals, non-coral calcifiers, and shellfish. The results will support the development of targeted adaptation policies to mitigate the effects of declining ocean pH on both ecosystems and coastal industries.
+
+
+**Funding**: National Research Foundation –  Earth Systems Science Research Programme, 2025–2028
+
 
 ---
 
