@@ -28,7 +28,6 @@ At the **Southern Ocean Carbon-Climate Observatory (SOCCO)**, I lead research on
 
 I also manage **SA-RobOTIC** (South African Robotics and Ocean Technology Innovation Centre), a collaboration between SMME Sea Technologies Services and SOCCO. SA-RobOTICs supports SOCCOs ocean robotic activities and innovation in ocean observing technologies. Our team has been involved in efforts like building custom sensors and expanding glider mission capabilities to improve year-round data collection. Particular focus is on covering key observational blindspots such as winter time in the Southern Ocean.
 
-[SA-ROBOTICS-006 logo.pdf](https://github.com/user-attachments/files/20302200/SA-ROBOTICS-006.logo.pdf)
 
 ---
 
