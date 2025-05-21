@@ -1,5 +1,8 @@
-
-# Community Involvement
+---
+layout: single
+permalink: /community/
+title: "👥 Community Involvement"
+---
 
 I actively contribute to the international oceanographic community through service on several scientific panels and working groups. These roles reflect my commitment to advancing collaborative, interdisciplinary science focused on understanding ocean processes and their role in the climate system.
 
